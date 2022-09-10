@@ -37,7 +37,7 @@ def main():
                     word_count += 1
             
             # Prints outcome
-            print(f"\"{my_word}\" was said {word_count} times!")
+            print(f"\"{my_word}\" was said {word_count} times!\n")
 
 if __name__ == "__main__":
     main()
