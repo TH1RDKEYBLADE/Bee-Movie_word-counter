@@ -7,7 +7,7 @@ from os import path
 def main():
     print("Bee Movie Transcript Word Counter!")
     print("----------------------------------")
-    input("Press Enter to continue!")
+    input("Press Enter to continue!\n")
 
     # Opens Script file
     with open(path.join(path.dirname(__file__), 'bee_movie_transcript.txt')) as f:
