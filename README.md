@@ -1,2 +1,4 @@
 # Bee-Movie_word-counter
-Enter a word, and this will tell you how many times it was said in the movie.
+This project idea was made by my sister.
+A test to see if I could actually do stuff on my own,
+after seeing Shrek randomizer project.
